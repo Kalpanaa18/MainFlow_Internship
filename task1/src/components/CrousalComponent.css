@@ -1,0 +1,54 @@
+.crousal{
+    height:30%;
+    width: 100%;
+    
+    position: absolute;
+    margin-top: 2%;
+    background-color: rgb(255, 228, 225) ;
+}
+h3{
+    margin-top: 2%;
+}
+#p{
+    height: 10%;
+    width:20%;
+    background-color:white;
+   
+    font-size: 18px;
+    border-radius: 3px;
+    border: 0;
+    margin-left: 20%;
+    border-color: white;
+    margin-right: 20%;
+    margin-bottom: 1%;
+    background-color:	#8B4513;
+    color: white;
+  }
+#q{
+      height: 10%;
+    width:20%;
+    background-color:white;
+    font-size: 18px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 3px;
+
+    border: 0;
+    border-color: white;
+    background-color:	#8B4513;
+    color: white;
+  }
+#r{
+    height: 10%;
+  width:20%;
+  background-color:white;
+  font-size: 18px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 1%;
+  border-radius: 3px;
+  border: 0;
+  border-color: white;
+  background-color:	#8B4513;
+  color: white;
+}

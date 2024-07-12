@@ -1,0 +1,48 @@
+.up1{
+    height: 100%;
+    width:99.7%;
+   background-color: white;
+    position:absolute;
+
+}
+.up2{
+    height: 7%;
+    width:30%;
+    margin-left: 12%;
+    margin-top: 4%;
+    position: absolute;
+}
+.t2{
+    height:60%;
+    width:35%;
+    position :absolute;
+    margin-left: 55%;
+    margin-top: 14%;
+    text-align: left;
+  
+}
+h1{
+    font-family:'Sora',sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 70px;
+}
+p{
+    font-size: 20px;
+}
+#e{
+  height: 10%;
+  width:40%;
+  background-color:	#8B4513;
+  color: white;
+  font-size: 18px;
+  border-radius: 3px;
+  border: 0;
+}
+.up{
+    height: 90%;
+    width: 100%;
+    position: absolute;
+    margin-top: 17%;
+    
+}
