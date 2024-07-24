@@ -12,14 +12,14 @@ import NavBar from './components/NavBar';
 function App() {
   return (
     <div className="App">
-      <NavBar/>
-      <ComponentOne/>
-      <ComponentTwo/>
-      <CrousalComponent/>
-      
-      <ComponentFour/>
-      <ComponentLast/>
-      <Footer/>
+      <NavBar />
+      <ComponentOne />
+      <ComponentTwo />
+      <CrousalComponent />
+
+      <ComponentFour />
+      <ComponentLast />
+      <Footer />
     </div>
   );
 }
